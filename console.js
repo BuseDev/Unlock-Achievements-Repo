@@ -10,6 +10,4 @@ function myfunction(){
   console.log("I'll have my new achievement")
 }
 
-function newfunction(){
-  console.log("updated")
-}
+//I have a new achievement now!!!
