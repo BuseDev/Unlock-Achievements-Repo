@@ -9,3 +9,5 @@ function main(){
 
 //added these rows
 //keep going
+
+console.log("Hello World")
