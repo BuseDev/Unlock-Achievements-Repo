@@ -9,3 +9,7 @@ function main(){
 function myfunction(){
   console.log("I'll have my new achievement")
 }
+
+function newfunction(){
+  console.log("updated")
+}
