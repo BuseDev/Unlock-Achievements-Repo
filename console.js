@@ -5,3 +5,7 @@ console.log("Hello World")
 function main(){
   return null;
 }
+
+function myfunction(){
+  console.log("I'll have my new achievement")
+}
