@@ -13,3 +13,11 @@ function myfunction(){
 function newfunction(){
   console.log("hello world")
 }
+
+function sayMyName(){
+  console.log("Say my name!")
+}
+
+function danger(){
+  console.log("I am not in danger, I am the DANGER!!")
+}
