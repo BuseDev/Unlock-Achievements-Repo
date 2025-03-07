@@ -13,3 +13,7 @@ function myfunction(){
 function newfunction(){
   console.log("hello world")
 }
+
+function sayMyName(){
+  console.log("Say my name!")
+}
