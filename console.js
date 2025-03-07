@@ -17,3 +17,7 @@ function newfunction(){
 function sayMyName(){
   console.log("Say my name!")
 }
+
+function danger(){
+  console.log("I am not in danger, I am the DANGER!!")
+}
